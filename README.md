@@ -44,7 +44,7 @@
 </h3>
 <br/>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Happy+cording+👨‍💻+⏳;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Happy+cording+👨‍💻+⏳;">
 </h3>
 <br/>
 <br/>
