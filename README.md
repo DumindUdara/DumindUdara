@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working  on **a Land Web application**
+ 🔭 I’m currently working  on **a Land Sale Web application**
  
  🌱 I’m currently learning **Node.js, React, Firebase, MongoDB**
 
