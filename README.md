@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working  on **a Land Sale Web application**
+ 🔭 I’m currently working  on **a Land Sale Web application and GYM Management System**
  
- 🌱 I’m currently learning **Node.js, React, Firebase, MongoDB**
+ 🌱 I’m currently learning ** Machine Learning with python | Mobile Application Development with flutter **
 
-💬 Ask me about **Java, C, Python, PHP, Mysql... or anything**
+💬 Ask me about **Java, C, Python, PHP,Node.js, React, Firebase, MongoDB, Mysql... or anything**
 
 ⚡ Fun fact **coding 👨‍💻 and traveling ✈️🚢**
 
