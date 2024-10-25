@@ -10,7 +10,7 @@
  
  🔭 I’m currently working  on ** Diabetes Prediction using Machine Learning. **
  
- 🌱 I’m currently learning ** Machine Learning with python | Mobile Application Development with flutter **
+ 🌱 I’m currently learning ** Machine Learning with python | Spring Boot  **
 
 💬 Ask me about **Java, C, Python, PHP,Node.js, React, Firebase, MongoDB, Mysql... or anything**
 
