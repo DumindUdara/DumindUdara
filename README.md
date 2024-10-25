@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working  on ** Inventory Management Systems **
+ 🔭 I’m currently working  on ** Diabetes Prediction using Machine Learning. **
  
  🌱 I’m currently learning ** Machine Learning with python | Mobile Application Development with flutter **
 
